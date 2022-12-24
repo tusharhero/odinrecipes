@@ -1,0 +1,17 @@
+body {
+  background-color: chocolate;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1 {
+  background-color: coral;
+  margin: 2rem;
+  text-align: center;
+  font-family: monospace;
+  border: 1px solid black;
+}
+
+li {
+  border: 3px solid black;
+  max-width: 7em;
+}
