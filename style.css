@@ -1,33 +1,34 @@
 body {
-  background-color: chocolate;
+  background-color: black;
+  color: white;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 h1,
 h2{
-  background-color: coral;
+  background-color: blueviolet;
   margin: 2rem;
   text-align: center;
   font-family: monospace;
-  border: 1px solid black;
+  border: 1px solid white;
 }
 
 h2{
-  background-color: plum;
+  background-color: darkmagenta;
 }
 
 li {
-  border: 3px solid black;
+  border: 3px solid white;
   margin: 2em;
-  background-color: darkorange;
+  background-color: green;
 }
 
 a:link{
-  color: tan;
+  color: grey;
 }
 
 a:visited{
-  color: blueviolet;
+  color: lightblue;
 }
 
 a:hover{
